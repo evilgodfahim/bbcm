@@ -1,18 +1,22 @@
-const fs = require("fs");
+const fs    = require("fs");
 const axios = require("axios");
 const cheerio = require("cheerio");
-const RSS = require("rss");
+const RSS   = require("rss");
 
-const baseURL = "https://www.thedailystar.net";
-const targetURL = "https://www.thedailystar.net/opinion";
 const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";
 
 fs.mkdirSync("./feeds", { recursive: true });
 
+// ===== SITES =====
+const SITES = [
+  { name: "BBC Sky at Night Magazine", baseURL: "https://www.skyatnightmagazine.com", url: "https://www.skyatnightmagazine.com/news" },
+  { name: "BBC Science Focus",         baseURL: "https://www.sciencefocus.com",        url: "https://www.sciencefocus.com/news"        },
+  { name: "Discover Wildlife",          baseURL: "https://www.discoverwildlife.com",    url: "https://www.discoverwildlife.com/news"    },
+];
+
 // ===== DATE PARSING =====
 function parseItemDate(raw) {
   if (!raw || !raw.trim()) return new Date();
-
   const trimmed = raw.trim();
 
   const relMatch = trimmed.match(/^(\d+)\s+(minute|hour|day)s?\s+ago$/i);
@@ -47,90 +51,103 @@ async function fetchWithFlareSolverr(url) {
   throw new Error("FlareSolverr did not return a solution");
 }
 
+// ===== PARSE ONE SITE =====
+function parseSite($, baseURL) {
+  const items = [];
+
+  $('storefront-content[template="card"]').each((_, el) => {
+    const $card = $(el);
+
+    const titleEl = $card.find(".content-title").first();
+    const linkEl  = $card.find("a[href]").first();
+    const imgEl   = $card.find("img").first();
+    const descEl  = $card.find(".content-description").first();
+    const dateEl  = $card.find(".content-pub-date").first();
+
+    const title = titleEl.text().trim();
+    const href  = linkEl.attr("href");
+    if (!title || !href) return;
+
+    const link = href.startsWith("http") ? href : `${baseURL}/${href.replace(/^\//, "")}`;
+
+    const srcset    = imgEl.attr("srcset") || "";
+    const thumbnail = srcset
+      ? srcset.split(",").map(s => s.trim()).pop().split(" ")[0]
+      : (imgEl.attr("src") || "");
+
+    items.push({
+      title,
+      link,
+      thumbnail:   thumbnail || null,
+      description: descEl.text().trim(),
+      author:      "",
+      date:        parseItemDate(dateEl.text().trim()),
+    });
+  });
+
+  return items;
+}
+
 // ===== MAIN =====
 async function generateRSS() {
-  try {
-    const htmlContent = await fetchWithFlareSolverr(targetURL);
-    const $ = cheerio.load(htmlContent);
-    const items = [];
+  const feed = new RSS({
+    title:       "Science & Nature News",
+    description: "Latest news from BBC Sky at Night Magazine, BBC Science Focus, and Discover Wildlife",
+    feed_url:    "https://example.com/feeds/feed.xml",
+    site_url:    "https://example.com",
+    language:    "en",
+    pubDate:     new Date().toUTCString(),
+    custom_namespaces: {
+      media: "http://search.yahoo.com/mrss/",
+    },
+  });
 
-    $("div.card").each((_, el) => {
-      const $card = $(el);
+  let totalItems = 0;
 
-      const titleElement = $card.find("h5.card-title a, h1.card-title a").first();
-      const title = titleElement.text().trim();
-      const href  = titleElement.attr("href");
-      if (!title || !href) return;
+  for (const site of SITES) {
+    try {
+      const html  = await fetchWithFlareSolverr(site.url);
+      const $     = cheerio.load(html);
+      const items = parseSite($, site.baseURL);
 
-      const link        = href.startsWith("http") ? href : baseURL + href;
-      const intro       = $card.find("div.card-intro").text().trim()
-                       || $card.find("p.intro").text().trim();
-      const author      = $card.find("div.author a").text().trim();
-      const rawDate     = $card.find("div.card-info span").first().text().trim();
+      console.log(`${site.name}: found ${items.length} articles`);
 
-      items.push({
-        title,
-        link,
-        description: intro || (author ? `By ${author}` : ""),
-        author,
-        date: parseItemDate(rawDate),   // always a valid Date object
+      items.slice(0, 30).forEach(item => {
+        const extra = item.thumbnail
+          ? {
+              enclosure:       { url: item.thumbnail, type: "image/jpeg", size: 0 },
+              custom_elements: [{ "media:content": { _attr: { url: item.thumbnail, medium: "image" } } }],
+            }
+          : {};
+
+        feed.item({
+          title:       item.title,
+          url:         item.link,
+          description: item.description || "",
+          author:      item.author || undefined,
+          date:        item.date,
+          ...extra,
+        });
+
+        totalItems++;
       });
-    });
 
-    console.log(`Found ${items.length} articles`);
-
-    if (items.length === 0) {
-      console.log("⚠️  No articles found, creating placeholder item");
-      items.push({
-        title:       "No articles found yet",
-        link:        baseURL,
-        description: "RSS feed could not scrape any articles.",
-        author:      "",
-        date:        new Date(),
-      });
+    } catch (err) {
+      console.error(`❌ Error scraping ${site.name}: ${err.message}`);
     }
+  }
 
-    const feed = new RSS({
-      title:       "The Daily Star – Opinion",
-      description: "Latest opinion pieces from The Daily Star",
-      feed_url:    `${baseURL}/opinion`,
-      site_url:    baseURL,
-      language:    "en",
-      pubDate:     new Date().toUTCString(),
-    });
-
-    items.slice(0, 20).forEach(item => {
-      feed.item({
-        title:       item.title,
-        url:         item.link,
-        description: item.description,
-        author:      item.author || undefined,
-        date:        item.date,         // Date object → never "Invalid Date"
-      });
-    });
-
-    fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
-    console.log(`✅ RSS generated with ${items.length} items.`);
-
-  } catch (err) {
-    console.error("❌ Error generating RSS:", err.message);
-
-    const feed = new RSS({
-      title:       "The Daily Star – Opinion (error fallback)",
-      description: "RSS feed could not scrape, showing placeholder",
-      feed_url:    `${baseURL}/opinion`,
-      site_url:    baseURL,
-      language:    "en",
-      pubDate:     new Date().toUTCString(),
-    });
+  if (totalItems === 0) {
     feed.item({
       title:       "Feed generation failed",
-      url:         baseURL,
+      url:         "https://example.com",
       description: "An error occurred during scraping.",
       date:        new Date(),
     });
-    fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
   }
+
+  fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
+  console.log(`\n✅ RSS generated with ${totalItems} total items → ./feeds/feed.xml`);
 }
 
 generateRSS();
