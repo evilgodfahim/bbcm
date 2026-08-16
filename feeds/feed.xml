@@ -4,16 +4,16 @@
         <description><![CDATA[Latest news from BBC Sky at Night Magazine, BBC Science Focus, and Discover Wildlife]]></description>
         <link>https://example.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 10:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 11:13:42 GMT</lastBuildDate>
         <atom:link href="https://example.com/feeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 10:15:46 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 11:13:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The solar eclipse over Big Ben. Photographer captures the Moon passing in front of the Sun over London]]></title>
             <description><![CDATA[A photographer has captured the stages of the solar eclipse over the UK capital]]></description>
             <link>https://www.skyatnightmagazine.com/news/august-2026-solar-eclipse-london-big-ben</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/august-2026-solar-eclipse-london-big-ben</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/f15378f1-a59a-4949-9b9a-4f5b7600bbee/thumbnails/15f24a9b-bf2c-4777-9ff0-a9455f9c2270.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/f15378f1-a59a-4949-9b9a-4f5b7600bbee/thumbnails/15f24a9b-bf2c-4777-9ff0-a9455f9c2270.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -22,7 +22,7 @@
             <description><![CDATA[A selection of images of the August 2026 solar eclipse]]></description>
             <link>https://www.skyatnightmagazine.com/news/august-2026-solar-eclipse-pictures</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/august-2026-solar-eclipse-pictures</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/7cb302a5-1d8b-4e69-a483-b3f8921ecafa/thumbnails/fbc9f6ef-20a8-41c8-b720-8b7cdbf823bb.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/7cb302a5-1d8b-4e69-a483-b3f8921ecafa/thumbnails/fbc9f6ef-20a8-41c8-b720-8b7cdbf823bb.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -31,7 +31,7 @@
             <description><![CDATA[A video showing the August 2026 solar eclipse from space, as the shadow of the Moon passes over Earth's surface]]></description>
             <link>https://www.skyatnightmagazine.com/news/august-2026-solar-eclipse-from-space</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/august-2026-solar-eclipse-from-space</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/642b76d5-1363-4dd5-a319-233698c603f3/thumbnails/296f1628-a399-4747-b7d6-a9129db62b6c.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/642b76d5-1363-4dd5-a319-233698c603f3/thumbnails/296f1628-a399-4747-b7d6-a9129db62b6c.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -40,7 +40,7 @@
             <description><![CDATA[Why do eclipses come in pairs?]]></description>
             <link>https://www.skyatnightmagazine.com/space-science/why-solar-lunar-eclipse-come-in-pairs</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/space-science/why-solar-lunar-eclipse-come-in-pairs</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/ef07b2c3-9ea4-4050-aa0a-6802adf8aaeb/thumbnails/0367666c-9dae-4f28-85cd-d3783b8a23b7.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/ef07b2c3-9ea4-4050-aa0a-6802adf8aaeb/thumbnails/0367666c-9dae-4f28-85cd-d3783b8a23b7.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -49,7 +49,7 @@
             <description><![CDATA[A lunar eclipse will be visible at the end of August 2026 in North America, Europe, the UK and Africa. Here's how to see it.]]></description>
             <link>https://www.skyatnightmagazine.com/news/lunar-eclipse-august-2026</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/lunar-eclipse-august-2026</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/f1b17ba4-681a-435b-914b-0fedcdc0a0d9/thumbnails/0367666c-9dae-4f28-85cd-d3783b8a23b7.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/f1b17ba4-681a-435b-914b-0fedcdc0a0d9/thumbnails/0367666c-9dae-4f28-85cd-d3783b8a23b7.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -58,7 +58,7 @@
             <description><![CDATA[The eclipse over, now's the perfect time to see a Perseid meteor]]></description>
             <link>https://www.skyatnightmagazine.com/news/perseid-meteor-shower-2026</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/perseid-meteor-shower-2026</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/f4aab2ee-57d7-45cb-8dd8-56347e19d45b/thumbnails/c20980d0-bfa7-44fc-b202-1f4ff7bb2226.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/f4aab2ee-57d7-45cb-8dd8-56347e19d45b/thumbnails/c20980d0-bfa7-44fc-b202-1f4ff7bb2226.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -67,7 +67,7 @@
             <description><![CDATA[American Astronomical Society advice on using old solar eclipse glasses]]></description>
             <link>https://www.skyatnightmagazine.com/news/can-you-use-old-eclipse-glasses</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/can-you-use-old-eclipse-glasses</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/2e1c6f1f-6a45-4b59-8c0c-74a533ed0028/thumbnails/4ff1bde6-d9a9-4071-9cc0-effec20c8c17.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/2e1c6f1f-6a45-4b59-8c0c-74a533ed0028/thumbnails/4ff1bde6-d9a9-4071-9cc0-effec20c8c17.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -76,7 +76,7 @@
             <description><![CDATA[Top tips from the AAA for making sure you get your hands on a pair of safe solar eclipse glasses.]]></description>
             <link>https://www.skyatnightmagazine.com/advice/how-know-solar-eclipse-glasses-are-safe</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/advice/how-know-solar-eclipse-glasses-are-safe</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/32012a66-7809-4e23-9e3c-15d941b8ffea/thumbnails/edec040f-cb90-42ab-8d8f-64690cc3eb3b.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/32012a66-7809-4e23-9e3c-15d941b8ffea/thumbnails/edec040f-cb90-42ab-8d8f-64690cc3eb3b.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -85,7 +85,7 @@
             <description><![CDATA[A certified pair of solar eclipse glasses is a good, low-cost way of safely observing one of nature's most exciting events.]]></description>
             <link>https://www.skyatnightmagazine.com/top-astronomy-kit/best-solar-eclipse-glasses</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/top-astronomy-kit/best-solar-eclipse-glasses</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/ac999a4e-62fa-497f-a1c5-8f3d8d6ce472/thumbnails/91dfc8b5-9ea3-4013-adc1-b1014b5c68a5.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/ac999a4e-62fa-497f-a1c5-8f3d8d6ce472/thumbnails/91dfc8b5-9ea3-4013-adc1-b1014b5c68a5.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -94,7 +94,7 @@
             <description><![CDATA[The best live streams of the August 2026 solar eclipse]]></description>
             <link>https://www.skyatnightmagazine.com/news/watch-august-2026-solar-eclipse-online</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/watch-august-2026-solar-eclipse-online</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/105487d8-8c20-4ef5-81e9-3c5a347cfc93/thumbnails/28b9e687-2499-4310-8a16-86cd2975c6f6.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/105487d8-8c20-4ef5-81e9-3c5a347cfc93/thumbnails/28b9e687-2499-4310-8a16-86cd2975c6f6.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -103,7 +103,7 @@
             <description><![CDATA[Study suggests that life’s chemical precursors could arise in non-water environments]]></description>
             <link>https://www.skyatnightmagazine.com/news/in-brief/saturn-moon-titan-building-blocks-of-alien-life</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/in-brief/saturn-moon-titan-building-blocks-of-alien-life</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://c02.purpledshub.com/uploads/sites/48/2023/11/saturn-moon-titan-lakes.jpg?w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://c02.purpledshub.com/uploads/sites/48/2023/11/saturn-moon-titan-lakes.jpg?w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -111,7 +111,7 @@
             <title><![CDATA[The cosmic explosion that wouldn't quit. Strange signal from deep space baffles astronomers]]></title>
             <link>https://www.skyatnightmagazine.com/news/strange-signal-from-deep-space-baffles-astronomers</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/strange-signal-from-deep-space-baffles-astronomers</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://c02.purpledshub.com/uploads/sites/48/2024/06/gamma-ray-burst-questions.jpg?w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://c02.purpledshub.com/uploads/sites/48/2024/06/gamma-ray-burst-questions.jpg?w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -120,7 +120,7 @@
             <description><![CDATA[Get the key facts on this story with our quick, 1-minute read Star system: astronomers have discovered three Earth-sized planets orbiting a binary star system known as TOI-2267 Close proximity: the system is located 190 lightyears from Earth, which is considered relatively nearby in astronomical terms Binary nature: the two stars in the system are cool and orbit each other at a distance just eight times the distance between Earth and the Sun Record breakers: this discovery represents the coldest and most compact pair of stars known to host planets Transit first: the study marks the first time planets have]]></description>
             <link>https://www.skyatnightmagazine.com/news/in-brief/real-life-tatooine</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/in-brief/real-life-tatooine</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:50 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:30 GMT</pubDate>
             <enclosure url="https://c02.purpledshub.com/uploads/sites/48/2026/01/exoplanet-system.jpg?w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://c02.purpledshub.com/uploads/sites/48/2026/01/exoplanet-system.jpg?w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -129,7 +129,7 @@
             <description><![CDATA[A recent trial of an experimental gene therapy significantly lowered participants’ ‘bad’ cholesterol after just one injection]]></description>
             <link>https://www.sciencefocus.com/news/landmark-cholesterol-treatment-single-dose</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/landmark-cholesterol-treatment-single-dose</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/71bfa207-b1c4-46fd-8780-b795bb8cf7c9/thumbnails/df6ab3c4-e9e1-4b3e-8139-56ac86fc3b75.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/71bfa207-b1c4-46fd-8780-b795bb8cf7c9/thumbnails/df6ab3c4-e9e1-4b3e-8139-56ac86fc3b75.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -138,7 +138,7 @@
             <description><![CDATA[It turns out that more sex doesn’t equal more love]]></description>
             <link>https://www.sciencefocus.com/news/sex-life-reveals-relationship-love</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/sex-life-reveals-relationship-love</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/4e30ad89-6a12-421e-82d0-fd7cf748d211/thumbnails/a3933fe0-c9b0-4ea2-be1b-96575a9574bc.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/4e30ad89-6a12-421e-82d0-fd7cf748d211/thumbnails/a3933fe0-c9b0-4ea2-be1b-96575a9574bc.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -147,7 +147,7 @@
             <description><![CDATA[When it comes to health, sustainability and value for money, there is one clear winner]]></description>
             <link>https://www.sciencefocus.com/news/best-source-protein-tofu</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/best-source-protein-tofu</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/99d5dc0e-8308-48be-bfca-e02e3edac431/thumbnails/0531b33c-bb88-40e0-a7a5-566fa1660569.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/99d5dc0e-8308-48be-bfca-e02e3edac431/thumbnails/0531b33c-bb88-40e0-a7a5-566fa1660569.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -156,7 +156,7 @@
             <description><![CDATA[The Sun turned off the light across Europe]]></description>
             <link>https://www.sciencefocus.com/space/solar-eclipse-2026-gallery</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/space/solar-eclipse-2026-gallery</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/7feb2ccc-3870-4adf-ad04-f426b2fcc48a/thumbnails/b7a2ce78-397a-41e9-9b6c-d941016cc1a3.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/7feb2ccc-3870-4adf-ad04-f426b2fcc48a/thumbnails/b7a2ce78-397a-41e9-9b6c-d941016cc1a3.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -165,7 +165,7 @@
             <description><![CDATA[Brain scans revealed exactly what’s going on in the mind of a pooch when presented with a human expression]]></description>
             <link>https://www.sciencefocus.com/news/dog-read-face-expression</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/dog-read-face-expression</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/3c69822d-54bb-4f0e-a128-48d8cc8c7155/thumbnails/d627f5f6-1cba-4bfa-b673-31354debfded.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/3c69822d-54bb-4f0e-a128-48d8cc8c7155/thumbnails/d627f5f6-1cba-4bfa-b673-31354debfded.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -174,7 +174,7 @@
             <description><![CDATA[A new study suggests cognitive decline may not be inevitable]]></description>
             <link>https://www.sciencefocus.com/the-human-body/cognitive-decline-brain-health</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/the-human-body/cognitive-decline-brain-health</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/a5fc4d7c-223c-4805-8898-ee4a26a7f38e/thumbnails/aa13e5db-7e02-42f0-9f2e-101c9dc4c1f3.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/a5fc4d7c-223c-4805-8898-ee4a26a7f38e/thumbnails/aa13e5db-7e02-42f0-9f2e-101c9dc4c1f3.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -183,7 +183,7 @@
             <description><![CDATA[SpudCell can grow, replicate and divide, opening the door to a new era of biological engineering]]></description>
             <link>https://www.sciencefocus.com/news/this-synthetic-cell-is-a-meaningful-step-towards-building-life-from-scratch</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/this-synthetic-cell-is-a-meaningful-step-towards-building-life-from-scratch</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c0298f9f-b6cf-48a5-88ed-bcce9db4a20c/thumbnails/f5875bb8-ec3d-4d14-9eb9-76c3798d3d6c.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c0298f9f-b6cf-48a5-88ed-bcce9db4a20c/thumbnails/f5875bb8-ec3d-4d14-9eb9-76c3798d3d6c.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -192,7 +192,7 @@
             <description><![CDATA[Researchers surveying a remote Angolan plateau have discovered dozens of new species]]></description>
             <link>https://www.sciencefocus.com/news/dozens-of-extraordinary-new-species-have-just-been-discovered-in-an-uncharted-corner-of-africa</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/dozens-of-extraordinary-new-species-have-just-been-discovered-in-an-uncharted-corner-of-africa</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/7e7195ce-9023-42d1-b7bf-a9e79de79a44/thumbnails/008a7922-916d-4f42-9577-c5f6eba3e59d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/7e7195ce-9023-42d1-b7bf-a9e79de79a44/thumbnails/008a7922-916d-4f42-9577-c5f6eba3e59d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -201,7 +201,7 @@
             <description><![CDATA[Even if we could cure every illness, our own cells would eventually give out]]></description>
             <link>https://www.sciencefocus.com/the-human-body/limit-on-ageing-lifespan</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/the-human-body/limit-on-ageing-lifespan</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/a4ccf6af-1deb-4dd6-91d2-225ce435b9d3/thumbnails/ada83972-8c31-4165-b13a-175e1accde6d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/a4ccf6af-1deb-4dd6-91d2-225ce435b9d3/thumbnails/ada83972-8c31-4165-b13a-175e1accde6d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -210,7 +210,7 @@
             <description><![CDATA[The places with the biggest risk aren't always the places most likely to have a landslide]]></description>
             <link>https://www.sciencefocus.com/planet-earth/us-landslide-zones</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/planet-earth/us-landslide-zones</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/6a444083-f9c6-478f-95b1-a8bd21735649/thumbnails/4ab7fbc2-7329-4deb-afb5-f4a2868d4f03.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/6a444083-f9c6-478f-95b1-a8bd21735649/thumbnails/4ab7fbc2-7329-4deb-afb5-f4a2868d4f03.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -219,7 +219,7 @@
             <description><![CDATA[The sunfish didn't stand a chance]]></description>
             <link>https://www.sciencefocus.com/nature/killer-whale-headbutt-fish-explode</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/nature/killer-whale-headbutt-fish-explode</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c45463a3-a58e-403f-9909-9a19360fdfcf/thumbnails/de8d520b-2519-4c61-8c2a-15537921c21c.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c45463a3-a58e-403f-9909-9a19360fdfcf/thumbnails/de8d520b-2519-4c61-8c2a-15537921c21c.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -228,7 +228,7 @@
             <description><![CDATA[There are undeniable benefits to not having to commute to the office five days a week. There might also be unexpected costs too]]></description>
             <link>https://www.sciencefocus.com/wellbeing/working-from-home-mental-health</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/wellbeing/working-from-home-mental-health</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/99829300-fb4d-4ed3-9013-319e918a461c/thumbnails/5800d924-5e7d-4ca0-8c06-617d8475d51e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/99829300-fb4d-4ed3-9013-319e918a461c/thumbnails/5800d924-5e7d-4ca0-8c06-617d8475d51e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -237,7 +237,7 @@
             <description><![CDATA[An analysis of 177 countries’ green credentials put the US in 19th place and the UK in third]]></description>
             <link>https://www.sciencefocus.com/news/country-leading-world-sustainability-estonia</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/country-leading-world-sustainability-estonia</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/3bdb40d3-bd44-4640-a6de-196f54ca396e/thumbnails/78982848-afc5-4ffa-8932-6d5227b1269c.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/3bdb40d3-bd44-4640-a6de-196f54ca396e/thumbnails/78982848-afc5-4ffa-8932-6d5227b1269c.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -246,7 +246,7 @@
             <description><![CDATA[Researchers used satellite imagery to chart how the guano changed colour over three decades]]></description>
             <link>https://www.sciencefocus.com/news/penguin-poop-changed-over-time</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/penguin-poop-changed-over-time</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c8bbbc9c-fa99-4f65-b41f-7f6afe41707d/thumbnails/55fc18c5-3319-434a-9008-a834f4469fcb.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c8bbbc9c-fa99-4f65-b41f-7f6afe41707d/thumbnails/55fc18c5-3319-434a-9008-a834f4469fcb.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -255,7 +255,7 @@
             <description><![CDATA[Scientists calculated the lifespan of 204 countries]]></description>
             <link>https://www.sciencefocus.com/news/singapore-life-expectancy-healthspan-morbidity-gap</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/singapore-life-expectancy-healthspan-morbidity-gap</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/a01ea2be-db77-4424-8c40-a5e51a16ac46/thumbnails/b2441d14-e7dc-4270-8e0d-927fdbb72c66.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/a01ea2be-db77-4424-8c40-a5e51a16ac46/thumbnails/b2441d14-e7dc-4270-8e0d-927fdbb72c66.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -264,7 +264,7 @@
             <description><![CDATA[There's enough to make 500 billion cell phones]]></description>
             <link>https://www.sciencefocus.com/news/lithium-reserve-us</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/lithium-reserve-us</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/5f32e794-67f6-4cd1-85d8-88131a227d4b/thumbnails/bc8f17e2-d4b9-4a4a-81fa-068d8f4ee16a.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/5f32e794-67f6-4cd1-85d8-88131a227d4b/thumbnails/bc8f17e2-d4b9-4a4a-81fa-068d8f4ee16a.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -273,7 +273,7 @@
             <description><![CDATA[They like to be admired in the flesh, so prefer their team in the office to enjoy being bowed down to in person]]></description>
             <link>https://www.sciencefocus.com/news/narcissism-boss-work-from-home</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/narcissism-boss-work-from-home</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/ee384976-016b-4e17-a357-ea6ea87143eb/thumbnails/49617a1d-aca5-4e8d-be21-365f5c2d8640.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/ee384976-016b-4e17-a357-ea6ea87143eb/thumbnails/49617a1d-aca5-4e8d-be21-365f5c2d8640.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -282,7 +282,7 @@
             <description><![CDATA[An experimental new oxygen tank for cyborg cockroaches has been invented – and it actually works]]></description>
             <link>https://www.sciencefocus.com/news/diving-suit-cyborg-cockroach</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/diving-suit-cyborg-cockroach</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/a0e7b576-e0d2-4218-9bfb-5e985b045750/thumbnails/27cb08a4-47f2-4bb8-ab92-f2e25ec680f7.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/a0e7b576-e0d2-4218-9bfb-5e985b045750/thumbnails/27cb08a4-47f2-4bb8-ab92-f2e25ec680f7.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -291,7 +291,7 @@
             <description><![CDATA[A spare Mars rover might be sent to the Moon as part of the development of its Moon Base]]></description>
             <link>https://www.sciencefocus.com/news/nasa-promise-moon-rover</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/nasa-promise-moon-rover</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/4502bf40-c1e5-4789-b77e-effe89b460e8/thumbnails/0f9353b2-339b-47f5-86da-0fa0ddce0f6e.webp?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/4502bf40-c1e5-4789-b77e-effe89b460e8/thumbnails/0f9353b2-339b-47f5-86da-0fa0ddce0f6e.webp?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -300,7 +300,7 @@
             <description><![CDATA[Analysis of DNA from Neanderthal bones revealed that a group in Western Europe were surprisingly healthy, shortly before they disappeared]]></description>
             <link>https://www.sciencefocus.com/news/neanderthals-dna-interbreeding-extinct</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/neanderthals-dna-interbreeding-extinct</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/9c6f61f7-2fa8-4eb8-b99e-aa8574e633aa/thumbnails/417444dd-f906-44da-af27-d57ae5dd8f00.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/9c6f61f7-2fa8-4eb8-b99e-aa8574e633aa/thumbnails/417444dd-f906-44da-af27-d57ae5dd8f00.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -309,7 +309,7 @@
             <description><![CDATA[The finds span thousands of years, confirming how humans have been attracted to water sources for millennia]]></description>
             <link>https://www.sciencefocus.com/science/archaeology-3000-dutch-stream</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/science/archaeology-3000-dutch-stream</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/16c174cc-4260-4312-a280-08891c7c2bfa/thumbnails/bbab2aa2-5ce5-4291-9ed8-f9606ccc5468.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/16c174cc-4260-4312-a280-08891c7c2bfa/thumbnails/bbab2aa2-5ce5-4291-9ed8-f9606ccc5468.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -318,7 +318,7 @@
             <description><![CDATA[Finding the best route to beat Alzheimer's]]></description>
             <link>https://www.sciencefocus.com/the-human-body/scientists-and-taxi-drivers-may-have-discovered-the-secret-to-beating-dementia</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/the-human-body/scientists-and-taxi-drivers-may-have-discovered-the-secret-to-beating-dementia</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/bbae22aa-5b26-4fcd-abf1-05cb9460cefd/thumbnails/ab0d190d-3b1a-414a-b882-73a3f084f54d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/bbae22aa-5b26-4fcd-abf1-05cb9460cefd/thumbnails/ab0d190d-3b1a-414a-b882-73a3f084f54d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -327,7 +327,7 @@
             <description><![CDATA[Known for its massive retractable jaw, the spooky footage shows the goblin shark lurking deep in the Pacific Ocean]]></description>
             <link>https://www.sciencefocus.com/news/goblin-shark-ugly-deep-sea</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/goblin-shark-ugly-deep-sea</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/80837f4e-50d7-4320-b29a-efcea671a82d/thumbnails/f194bb70-b736-4e33-a4dd-5eb474b74034.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/80837f4e-50d7-4320-b29a-efcea671a82d/thumbnails/f194bb70-b736-4e33-a4dd-5eb474b74034.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -336,7 +336,7 @@
             <description><![CDATA[A new study has put a staggering price tag on their pollution]]></description>
             <link>https://www.sciencefocus.com/news/richest-10-percent-environmental-damage</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/richest-10-percent-environmental-damage</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:53 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:36 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c067e1db-7fdd-4b33-97b7-435ba02c8213/thumbnails/9635353b-57f9-4f32-b3cb-9dff9b963bfd.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c067e1db-7fdd-4b33-97b7-435ba02c8213/thumbnails/9635353b-57f9-4f32-b3cb-9dff9b963bfd.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -345,7 +345,7 @@
             <description><![CDATA[The body form of the fish we know as the seahorse has evolved multiple times in the same family]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/sea-muppet</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/sea-muppet</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/a7f2bb6a-d50c-4b00-941e-f0ef054aa067/thumbnails/239e5f07-b932-4e73-9a4f-04b096d8760d.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/a7f2bb6a-d50c-4b00-941e-f0ef054aa067/thumbnails/239e5f07-b932-4e73-9a4f-04b096d8760d.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -354,7 +354,7 @@
             <description><![CDATA[An extraordinary new coral species resembling a gilded tree has been found off the coast of Costa Rica.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/laurinque-elenya-costa-rica</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/laurinque-elenya-costa-rica</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/5b968b05-b384-4a8a-8ca5-d823dd9ae304/thumbnails/5fe703c4-8d23-443d-b097-70fc89b681ce.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/5b968b05-b384-4a8a-8ca5-d823dd9ae304/thumbnails/5fe703c4-8d23-443d-b097-70fc89b681ce.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -363,7 +363,7 @@
             <description><![CDATA[There are estimated to be fewer than 600 Delacour's langurs left in the wild, making the sighting particularly special.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/delacours-langur-northern-vietnam</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/delacours-langur-northern-vietnam</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/44c0b6b6-86cf-45ac-85ec-9a93082c7e09/thumbnails/b11c0875-f788-4671-bbc6-9842ff928047.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/44c0b6b6-86cf-45ac-85ec-9a93082c7e09/thumbnails/b11c0875-f788-4671-bbc6-9842ff928047.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -372,7 +372,7 @@
             <description><![CDATA[Researchers have discovered that the brains of crocodiles and their close relatives have remained almost completely unchanged for 100 million years.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/reptiles/crocodilian-brain-evolution</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/reptiles/crocodilian-brain-evolution</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/40c53cdd-5307-42ad-a3a6-6c08f388ed69/thumbnails/eb66dde9-6958-4275-b2f8-f3f94de6a816.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/40c53cdd-5307-42ad-a3a6-6c08f388ed69/thumbnails/eb66dde9-6958-4275-b2f8-f3f94de6a816.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -381,7 +381,7 @@
             <description><![CDATA[Research from the Smithsonian Institution suggests that there is such a thing as too many options – if you’re a treefrog]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/amphibians/treefrog-mating-choice-overload</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/amphibians/treefrog-mating-choice-overload</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/74dee273-92cf-4f04-93a5-c98eeaff62ca/thumbnails/731fd625-4c96-4f34-8a6e-5b35cd3da51a.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/74dee273-92cf-4f04-93a5-c98eeaff62ca/thumbnails/731fd625-4c96-4f34-8a6e-5b35cd3da51a.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -390,7 +390,7 @@
             <description><![CDATA[Dolphins have been filmed catching fish with seashells for the first time ever.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/dolphin-shelling</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/dolphin-shelling</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/d39534d4-eaec-44e9-aca8-472a1820e058/thumbnails/b6773505-c413-4151-a2e7-7c364a759a75.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/d39534d4-eaec-44e9-aca8-472a1820e058/thumbnails/b6773505-c413-4151-a2e7-7c364a759a75.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -399,7 +399,7 @@
             <description><![CDATA[It’s thought that ants were visiting this mushroom-like plant – but it was actually a much larger creature]]></description>
             <link>https://www.discoverwildlife.com/plant-facts/balanophora-fungosa-land-hermit-crabs</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/plant-facts/balanophora-fungosa-land-hermit-crabs</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/e0fc93c4-64cb-4f46-8643-430bbb476a61/thumbnails/bb21aff5-6a3b-4a69-90ee-d48fc4d9cc2e.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/e0fc93c4-64cb-4f46-8643-430bbb476a61/thumbnails/bb21aff5-6a3b-4a69-90ee-d48fc4d9cc2e.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -408,7 +408,7 @@
             <description><![CDATA[The Phoenix Species Project is dedicated to recovering 100 critically endangered and extinct in the wild species, including a tree-dwelling salamander, a desert succulent known as the fuzzy belly button, and the bizarre-looking bowmouth guitarfish.]]></description>
             <link>https://www.discoverwildlife.com/environment/phoenix-species-project</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/environment/phoenix-species-project</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/fa8dc12c-03b7-4a4a-8574-6fdb5add316a/thumbnails/e5c60463-78ce-4719-ae0f-5c197772f3ae.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/fa8dc12c-03b7-4a4a-8574-6fdb5add316a/thumbnails/e5c60463-78ce-4719-ae0f-5c197772f3ae.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -417,7 +417,7 @@
             <description><![CDATA[North America's largest land mammal was pushed to the brink of extinction. Now, its population is recovering – and a new genetic study of bison that died thousands of years ago could help guide future conservation efforts.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/bison-ancient-dna</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/bison-ancient-dna</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/dbf1739b-82e7-47f6-a0a8-1e586df5844c/thumbnails/49fb3cf3-4bc0-45b0-97dc-3d469c4c7bbb.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/dbf1739b-82e7-47f6-a0a8-1e586df5844c/thumbnails/49fb3cf3-4bc0-45b0-97dc-3d469c4c7bbb.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -426,7 +426,7 @@
             <description><![CDATA[Paul Nicklen reveals a selection of his favourite wildlife images, due to exhibit at the Iconic Images Gallery in London from the 9th November 2026.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/paul-nicklen-reverence</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/paul-nicklen-reverence</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/bb19706b-e95a-4fb6-8d9f-bac8d93f7fc0/thumbnails/525cb28f-fdae-4825-89e7-afc11387a2d8.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/bb19706b-e95a-4fb6-8d9f-bac8d93f7fc0/thumbnails/525cb28f-fdae-4825-89e7-afc11387a2d8.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -435,7 +435,7 @@
             <description><![CDATA[For the first time, researchers have matched an entire whale song to an entire dive – and found the song changes in step with what the whale’s body is doing underwater]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/humpback-whale-song-diving</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/humpback-whale-song-diving</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/162aae94-8970-4780-9837-3cfdf6dedcef/thumbnails/635166e7-e770-4004-97e4-eb281a21d5d3.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/162aae94-8970-4780-9837-3cfdf6dedcef/thumbnails/635166e7-e770-4004-97e4-eb281a21d5d3.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -444,7 +444,7 @@
             <description><![CDATA[After a decade of photographing animals around the world, Joel Sartore has captured his 18,000th species: the critically endangered red handfish.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/joel-sartore-red-handfish</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/joel-sartore-red-handfish</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/e2fe0a68-4534-438d-a19e-e6c01be23fed/thumbnails/2ef7d66d-6c41-4b6f-b630-0607f1ef1487.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/e2fe0a68-4534-438d-a19e-e6c01be23fed/thumbnails/2ef7d66d-6c41-4b6f-b630-0607f1ef1487.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -453,7 +453,7 @@
             <description><![CDATA[Wildlife watchers were lucky enough to be joined by three pygmy blue whales.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/pygmy-blue-whale-indonesia</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/pygmy-blue-whale-indonesia</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/41d6d0c6-9fcb-441e-9a84-0843e4366bc8/thumbnails/db28c1d0-0a27-40ef-b961-b288b80604e0.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/41d6d0c6-9fcb-441e-9a84-0843e4366bc8/thumbnails/db28c1d0-0a27-40ef-b961-b288b80604e0.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -462,7 +462,7 @@
             <description><![CDATA[For the first time, scientists have documented what white sharks do when storms are on the way.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/white-shark-nursery-storm</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/white-shark-nursery-storm</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/fdf8412c-1697-4d87-bcb9-d0e29a72000a/thumbnails/60e99ab0-813d-4915-bda2-e203dc518f3e.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/fdf8412c-1697-4d87-bcb9-d0e29a72000a/thumbnails/60e99ab0-813d-4915-bda2-e203dc518f3e.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -471,7 +471,7 @@
             <description><![CDATA[This male bird’s wattles of flesh dangling from its beak and its bonkers call are both intended to impress females.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/birds/bearded-bellbird-trinidad</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/birds/bearded-bellbird-trinidad</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/c2cb38c8-da9e-443a-a13f-3b243c5407f5/thumbnails/b656f71a-d17e-43a9-a207-e64d3b08d0bc.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/c2cb38c8-da9e-443a-a13f-3b243c5407f5/thumbnails/b656f71a-d17e-43a9-a207-e64d3b08d0bc.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -480,7 +480,7 @@
             <description><![CDATA[It turns out these flightless, supersized pigeons may have been a lot smarter than people think…]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/birds/dodo-skull-anatomy</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/birds/dodo-skull-anatomy</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/5be8509a-b6d4-4a21-9855-50f07ad7c99b/thumbnails/db32b58a-e7c5-4374-bba8-05939ab641f8.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/5be8509a-b6d4-4a21-9855-50f07ad7c99b/thumbnails/db32b58a-e7c5-4374-bba8-05939ab641f8.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -489,7 +489,7 @@
             <description><![CDATA[One week into a 10,000-mile solo voyage across the Arctic Ocean, this sailor had a wildlife encounter to remember.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/matt-rutherford-pilot-whales</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/matt-rutherford-pilot-whales</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/01a64e3d-c68d-437e-bd7d-dcda82025f82/thumbnails/094328b4-a8ab-4c20-bf51-a71a27a75637.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/01a64e3d-c68d-437e-bd7d-dcda82025f82/thumbnails/094328b4-a8ab-4c20-bf51-a71a27a75637.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -498,7 +498,7 @@
             <description><![CDATA[Scientists just saw – and filmed – humpbacks cooperatively hunting along the seafloor for the first time.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/humpback-whale-collaborative-benthic-hunting</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/humpback-whale-collaborative-benthic-hunting</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/a906d07a-a208-4f9b-a391-3600b9e97123/thumbnails/8ae7c27f-fb59-486c-9855-02ab471720e5.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/a906d07a-a208-4f9b-a391-3600b9e97123/thumbnails/8ae7c27f-fb59-486c-9855-02ab471720e5.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -507,7 +507,7 @@
             <description><![CDATA[Pumas change the way deer behave around roadways, leading to fewer collisions with cars, new study finds.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/pumas-make-roads-safer</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/pumas-make-roads-safer</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/3ffa70e3-bfbb-46d4-a1db-1effc9e83675/thumbnails/5c1dc902-caa0-448d-a860-a42844476fe8.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/3ffa70e3-bfbb-46d4-a1db-1effc9e83675/thumbnails/5c1dc902-caa0-448d-a860-a42844476fe8.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -516,7 +516,7 @@
             <description><![CDATA[An endangered deer is at risk of a livestock-spread disease. Now a treatment centre has released its first patient back into the wild]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/mammals/huemul-patagonia-release</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/mammals/huemul-patagonia-release</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/9c52689b-8e3e-4a3d-b1b2-255684b851f2/thumbnails/caec7aec-8087-498f-ad02-0678d53066fc.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/9c52689b-8e3e-4a3d-b1b2-255684b851f2/thumbnails/caec7aec-8087-498f-ad02-0678d53066fc.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -525,7 +525,7 @@
             <description><![CDATA[Okefenokee Swamp is the largest blackwater swamp in North America – and UNESCO's newest World Heritage Site.]]></description>
             <link>https://www.discoverwildlife.com/environment/okefenokee-swamp-unesco-world-heritage-site</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/environment/okefenokee-swamp-unesco-world-heritage-site</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/154cef06-c6a9-4290-ac7c-05bc8b438c51/thumbnails/82526b58-2b43-4477-aace-f4f22ea0ec52.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/154cef06-c6a9-4290-ac7c-05bc8b438c51/thumbnails/82526b58-2b43-4477-aace-f4f22ea0ec52.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -534,7 +534,7 @@
             <description><![CDATA[Extremely rare footage shows an oceanic whitetip shark breaching in the Maldives.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/oceanic-whitetip-shark-breach-maldives</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/oceanic-whitetip-shark-breach-maldives</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/43751126-1002-4261-af21-6194b435df8d/thumbnails/e611f697-bd34-42d3-b444-bf096bc421ef.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/43751126-1002-4261-af21-6194b435df8d/thumbnails/e611f697-bd34-42d3-b444-bf096bc421ef.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -543,7 +543,7 @@
             <description><![CDATA[Roaming the rainforests of Sumatra and Borneo, this wild cat is extremely elusive – but scientists have finally managed a glimpse into its life.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/neofelis-diardi-borneo</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/neofelis-diardi-borneo</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/7ebdcfa3-07b0-4374-aad0-e9506940266e/thumbnails/1ed18787-3db0-43cf-8069-6c95212919fd.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/7ebdcfa3-07b0-4374-aad0-e9506940266e/thumbnails/1ed18787-3db0-43cf-8069-6c95212919fd.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -552,7 +552,7 @@
             <description><![CDATA[Have you ever seen a porcupine climb a tree?]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/brazilian-porcupine-climbing-tree</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/brazilian-porcupine-climbing-tree</guid>
-            <pubDate>Sun, 16 Aug 2026 10:15:57 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 11:13:42 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/8adce62d-3144-42ef-a967-e5347338796a/thumbnails/3ceb9a64-e045-49b8-99fa-51c811e823bb.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/8adce62d-3144-42ef-a967-e5347338796a/thumbnails/3ceb9a64-e045-49b8-99fa-51c811e823bb.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
