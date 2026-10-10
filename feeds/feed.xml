@@ -4,16 +4,16 @@
         <description><![CDATA[Latest news from BBC Sky at Night Magazine, BBC Science Focus, and Discover Wildlife]]></description>
         <link>https://example.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 20:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 00:25:08 GMT</lastBuildDate>
         <atom:link href="https://example.com/feeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2026 20:26:13 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 00:24:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Mars passes in front of a beautiful star cluster this weekend. Here's how to see it]]></title>
             <description><![CDATA[See Mars meet the Beehive this weekend]]></description>
             <link>https://www.skyatnightmagazine.com/news/mars-beehive-cluster-october-2026</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/mars-beehive-cluster-october-2026</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/d1e06e85-d5c8-44de-b0ac-af4e5b747bb1/thumbnails/f76541f2-046c-47b9-a16c-5b63a4fa18fe.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/d1e06e85-d5c8-44de-b0ac-af4e5b747bb1/thumbnails/f76541f2-046c-47b9-a16c-5b63a4fa18fe.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -22,7 +22,7 @@
             <description><![CDATA[Get all the info you need to see a shooting star in this 1-minute read.]]></description>
             <link>https://www.skyatnightmagazine.com/news/draconid-meteor-shower-2026-top-tips</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/draconid-meteor-shower-2026-top-tips</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/06bb0245-53b2-411a-be46-4c60f8b14f5d/thumbnails/fd825de0-db53-4ef5-9825-7da55308d57b.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/06bb0245-53b2-411a-be46-4c60f8b14f5d/thumbnails/fd825de0-db53-4ef5-9825-7da55308d57b.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -31,7 +31,7 @@
             <description><![CDATA[Find out how to spot a Draconid meteor with our beginner's guide.]]></description>
             <link>https://www.skyatnightmagazine.com/advice/draconid-meteor-shower</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/advice/draconid-meteor-shower</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/a3cd35ac-1701-4042-b9b4-d17aa2488116/thumbnails/a401e57d-4a23-433b-8784-362b3036d43e.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/a3cd35ac-1701-4042-b9b4-d17aa2488116/thumbnails/a401e57d-4a23-433b-8784-362b3036d43e.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -40,7 +40,7 @@
             <description><![CDATA[Scientists say they've solved the mystery of the Arsia Mons Elongated Cloud on Mars]]></description>
             <link>https://www.skyatnightmagazine.com/news/arsia-mons-elongated-cloud-mystery-solved</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/arsia-mons-elongated-cloud-mystery-solved</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/ed71e2ae-84b2-4dd6-bc9b-48b31dcc2525/thumbnails/30a30aca-85ac-4fb7-9c55-3be24560a1dc.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/ed71e2ae-84b2-4dd6-bc9b-48b31dcc2525/thumbnails/30a30aca-85ac-4fb7-9c55-3be24560a1dc.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -49,7 +49,7 @@
             <description><![CDATA[Why is the star known as Tabby's Star so weird?]]></description>
             <link>https://www.skyatnightmagazine.com/news/why-is-tabbys-star-so-weird</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/why-is-tabbys-star-so-weird</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/751f84b2-1a8a-4303-beb8-07ef8d13a418/thumbnails/507dbcca-2453-4585-b400-327a8e1d240d.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/751f84b2-1a8a-4303-beb8-07ef8d13a418/thumbnails/507dbcca-2453-4585-b400-327a8e1d240d.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -58,7 +58,7 @@
             <description><![CDATA[An image of the morning light on Mars and distant cliffs, as seen by NASA's Curiosity rover]]></description>
             <link>https://www.skyatnightmagazine.com/news/mars-curiosity-rover-mount-sharp-yardangs-image</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/mars-curiosity-rover-mount-sharp-yardangs-image</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/7e97a431-f29f-432f-939e-d7010f55c033/thumbnails/9c42262c-f0e6-4309-ab30-991613f4dfd8.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/7e97a431-f29f-432f-939e-d7010f55c033/thumbnails/9c42262c-f0e6-4309-ab30-991613f4dfd8.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -67,7 +67,7 @@
             <description><![CDATA[We could be in for an increased display of aurora this weekend]]></description>
             <link>https://www.skyatnightmagazine.com/news/aurora-displays-8-11-october-2026</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/aurora-displays-8-11-october-2026</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/91cc9d72-af8b-4cdd-8490-151595ef14d8/thumbnails/c08a457d-aac3-4552-b44d-bc4ed68b7036.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/91cc9d72-af8b-4cdd-8490-151595ef14d8/thumbnails/c08a457d-aac3-4552-b44d-bc4ed68b7036.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -76,7 +76,7 @@
             <description><![CDATA[Views of Mars captured by the Mars Express orbiter]]></description>
             <link>https://www.skyatnightmagazine.com/space-missions/planet-mars-looks-like-ice-cream</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/space-missions/planet-mars-looks-like-ice-cream</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/e2719c56-36dc-4800-85de-bfd93f9524ef/thumbnails/bf9430f8-6aab-4c95-baeb-836dd76c6156.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/e2719c56-36dc-4800-85de-bfd93f9524ef/thumbnails/bf9430f8-6aab-4c95-baeb-836dd76c6156.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -85,7 +85,7 @@
             <description><![CDATA[The existence of a ninth planet in our Solar System could provide the solution to an age-old problem concerning the orbits of the planets.]]></description>
             <link>https://www.skyatnightmagazine.com/news/is-planet-nine-tilting-our-solar-system</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/is-planet-nine-tilting-our-solar-system</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/ce93810f-1207-4386-8ff0-b59f9d6cc7bf/thumbnails/cfaca6e8-a2c9-49f5-86fb-21fb3d34c584.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/ce93810f-1207-4386-8ff0-b59f9d6cc7bf/thumbnails/cfaca6e8-a2c9-49f5-86fb-21fb3d34c584.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -94,7 +94,7 @@
             <description><![CDATA[Jessica Mink reveals how she and her team discovered rings around the planet Uranus.]]></description>
             <link>https://www.skyatnightmagazine.com/space-science/uranus-rings-discovery</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/space-science/uranus-rings-discovery</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/15cccdb6-fd96-4fab-8812-c9da19d46177/thumbnails/f62e4d58-6096-43a2-820b-0e1452736a23.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/15cccdb6-fd96-4fab-8812-c9da19d46177/thumbnails/f62e4d58-6096-43a2-820b-0e1452736a23.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -103,7 +103,7 @@
             <description><![CDATA[First time a radio signal has been confirmed as coming from a single planet rather than an entire system]]></description>
             <link>https://www.skyatnightmagazine.com/news/scientists-detected-radio-signals-planet-beyond-our-solar-system</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/scientists-detected-radio-signals-planet-beyond-our-solar-system</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/e3a6ac34-037b-42df-802e-06ad7c61ee39/thumbnails/29fa86b7-f288-410c-8f47-dac22f5ed72f.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/e3a6ac34-037b-42df-802e-06ad7c61ee39/thumbnails/29fa86b7-f288-410c-8f47-dac22f5ed72f.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -112,7 +112,7 @@
             <description><![CDATA[A new crater has appeared on the Moon]]></description>
             <link>https://www.skyatnightmagazine.com/news/nasas-moon-orbiter-found-a-700-foot-crater</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/nasas-moon-orbiter-found-a-700-foot-crater</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/cdba6171-eb2b-4793-9a2e-8f8551039388/thumbnails/71aa01da-bdb5-40a9-9294-3999e80bf93b.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/cdba6171-eb2b-4793-9a2e-8f8551039388/thumbnails/71aa01da-bdb5-40a9-9294-3999e80bf93b.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -121,7 +121,7 @@
             <description><![CDATA[Astronomers detected a strange signal of data – a 'blast' from space – that lasted for a total of seven hours.]]></description>
             <link>https://www.skyatnightmagazine.com/news/strong-signal-from-space-lasting-seven-hours</link>
             <guid isPermaLink="true">https://www.skyatnightmagazine.com/news/strong-signal-from-space-lasting-seven-hours</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:19 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:24:56 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/3fb0d0f2-1315-4c06-9ca0-6553a20b05e0/thumbnails/2eb83ae8-6bb2-419d-9e02-1c42602951e8.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/3fb0d0f2-1315-4c06-9ca0-6553a20b05e0/thumbnails/2eb83ae8-6bb2-419d-9e02-1c42602951e8.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -130,7 +130,7 @@
             <description><![CDATA[Could the secret to how long we live be linked to Earth’s magnetism?]]></description>
             <link>https://www.sciencefocus.com/news/an-invisible-force-could-be-changing-your-lifespan-study-suggests</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/an-invisible-force-could-be-changing-your-lifespan-study-suggests</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/dce45729-a068-4e10-9fdd-1e155813b14b/thumbnails/e7be5137-87db-4118-b018-b4216f74948a.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/dce45729-a068-4e10-9fdd-1e155813b14b/thumbnails/e7be5137-87db-4118-b018-b4216f74948a.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -139,7 +139,7 @@
             <description><![CDATA[GLP-1s are linked to hair and nail changes, which experts say are reversible]]></description>
             <link>https://www.sciencefocus.com/the-human-body/experts-have-found-an-unexpected-side-effect-of-weight-loss-drugs</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/the-human-body/experts-have-found-an-unexpected-side-effect-of-weight-loss-drugs</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/79c47645-3d0b-449f-8132-532a1c4def34/thumbnails/40445945-b074-46a8-a0c4-6eecffec9b3d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/79c47645-3d0b-449f-8132-532a1c4def34/thumbnails/40445945-b074-46a8-a0c4-6eecffec9b3d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -148,7 +148,7 @@
             <description><![CDATA[Jaw-dropping images of outer space from the ZWO Astronomy Photographer of the Year competition]]></description>
             <link>https://www.sciencefocus.com/news/the-most-spectacular-astronomy-images-of-the-year-revealed</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/the-most-spectacular-astronomy-images-of-the-year-revealed</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/e04fa3bb-4da3-41bc-a387-c3f07b31ea98/thumbnails/59ce5de3-59c1-4f65-9f4d-4f0861c5727e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/e04fa3bb-4da3-41bc-a387-c3f07b31ea98/thumbnails/59ce5de3-59c1-4f65-9f4d-4f0861c5727e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -157,7 +157,7 @@
             <description><![CDATA[A shared taste in music is as good an indicator as any, scientists say]]></description>
             <link>https://www.sciencefocus.com/news/the-one-factor-that-could-reveal-how-compatible-you-are-with-your-partner</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/the-one-factor-that-could-reveal-how-compatible-you-are-with-your-partner</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/bf8c9299-9880-489d-9823-63fe1d57da2e/thumbnails/5d81bf29-015e-4e09-8713-f82700f9feb1.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/bf8c9299-9880-489d-9823-63fe1d57da2e/thumbnails/5d81bf29-015e-4e09-8713-f82700f9feb1.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -166,7 +166,7 @@
             <description><![CDATA[GLP-1 drugs are best known for treating diabetes and obesity, but could they also help to slow down how we age?]]></description>
             <link>https://www.sciencefocus.com/the-human-body/glp1-drugs-slow-biological-ageing</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/the-human-body/glp1-drugs-slow-biological-ageing</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/29d466cf-6f01-4b13-be5a-496edf9ab328/thumbnails/f3ac595d-55f8-4efc-8c77-c13719d6954e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/29d466cf-6f01-4b13-be5a-496edf9ab328/thumbnails/f3ac595d-55f8-4efc-8c77-c13719d6954e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -175,7 +175,7 @@
             <description><![CDATA[Wrinkles on the surface are clues as to the planet’s previous size]]></description>
             <link>https://www.sciencefocus.com/news/mercury-is-shrinking-faster-than-anyone-thought</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/mercury-is-shrinking-faster-than-anyone-thought</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c12a07d3-e668-425f-becc-db5269b520fc/thumbnails/c1b69545-eba5-4443-9ec3-9e41559d32fc.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c12a07d3-e668-425f-becc-db5269b520fc/thumbnails/c1b69545-eba5-4443-9ec3-9e41559d32fc.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -184,7 +184,7 @@
             <description><![CDATA[The answer could lie in the balance of what is on your plate]]></description>
             <link>https://www.sciencefocus.com/news/this-simple-diet-change-could-slow-your-biological-age-in-just-four-weeks</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/this-simple-diet-change-could-slow-your-biological-age-in-just-four-weeks</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/5f8339c8-91df-4927-8d66-f9fa581c8539/thumbnails/7fb3d01f-5238-4d37-aec6-15e12c197ad6.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/5f8339c8-91df-4927-8d66-f9fa581c8539/thumbnails/7fb3d01f-5238-4d37-aec6-15e12c197ad6.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -193,7 +193,7 @@
             <description><![CDATA[As the US suffers a parasite outbreak linked to lettuce, experts share how to enjoy your summer salads safely]]></description>
             <link>https://www.sciencefocus.com/news/should-you-wash-lettuce</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/should-you-wash-lettuce</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/0edb8f68-0025-49e0-8cf4-b745db8310da/thumbnails/119ea717-74e6-4d5d-802f-58852958182e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/0edb8f68-0025-49e0-8cf4-b745db8310da/thumbnails/119ea717-74e6-4d5d-802f-58852958182e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -202,7 +202,7 @@
             <description><![CDATA[The Lion King got one major detail wrong, a new study shows]]></description>
             <link>https://www.sciencefocus.com/news/experts-tracked-lions-for-four-years-and-found-something-incredible</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/experts-tracked-lions-for-four-years-and-found-something-incredible</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/12f5d1ac-8faa-470d-a285-9be275239e24/thumbnails/4dd5a10a-b6d1-4cda-8385-5b76ff1dbd2b.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/12f5d1ac-8faa-470d-a285-9be275239e24/thumbnails/4dd5a10a-b6d1-4cda-8385-5b76ff1dbd2b.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -211,7 +211,7 @@
             <description><![CDATA[The recent disaster in Nepal may be a warning of what's to come for the rest of the world]]></description>
             <link>https://www.sciencefocus.com/news/can-and-will-happen-again-experts-think-a-deadly-sky-tsunami-could-hit-the-us</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/can-and-will-happen-again-experts-think-a-deadly-sky-tsunami-could-hit-the-us</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/0d4df7ab-d64d-4236-8787-34e3d73350e8/thumbnails/9bff6752-6e5c-453e-802a-7d2ecfc7b6c0.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/0d4df7ab-d64d-4236-8787-34e3d73350e8/thumbnails/9bff6752-6e5c-453e-802a-7d2ecfc7b6c0.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -220,7 +220,7 @@
             <description><![CDATA[GLP-1s are touted as miracle drugs. But not everyone can benefit from their effects]]></description>
             <link>https://www.sciencefocus.com/news/why-weight-loss-drugs-stop-working-for-some-people-and-how-to-fix-it</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/why-weight-loss-drugs-stop-working-for-some-people-and-how-to-fix-it</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/d1ef9592-78ed-4829-8a54-0c36f91a0bb1/thumbnails/2fd3e6f3-68b2-4766-9413-8069334a4fb2.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/d1ef9592-78ed-4829-8a54-0c36f91a0bb1/thumbnails/2fd3e6f3-68b2-4766-9413-8069334a4fb2.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -229,7 +229,7 @@
             <description><![CDATA[One third of women aren't sure if they're in perimenopause or not]]></description>
             <link>https://www.sciencefocus.com/news/many-women-are-confused-about-perimenopause-here-are-the-signs-to-look-for</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/many-women-are-confused-about-perimenopause-here-are-the-signs-to-look-for</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/e8eb210a-acca-4e9a-adf4-771a7a3d0351/thumbnails/71de0c62-8846-4e27-b0cf-fb629971816d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/e8eb210a-acca-4e9a-adf4-771a7a3d0351/thumbnails/71de0c62-8846-4e27-b0cf-fb629971816d.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -238,7 +238,7 @@
             <description><![CDATA[454 million years ago, an eruption as powerful as several thousand hydrogen bombs tore through the English east coast]]></description>
             <link>https://www.sciencefocus.com/news/geologists-have-discovered-an-enormous-ancient-volcano-lurking-under-england</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/geologists-have-discovered-an-enormous-ancient-volcano-lurking-under-england</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/6eae3c14-f782-453b-bc23-8a30ab95bf72/thumbnails/247f32f6-01c5-4635-a705-f65848253c0e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/6eae3c14-f782-453b-bc23-8a30ab95bf72/thumbnails/247f32f6-01c5-4635-a705-f65848253c0e.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -247,7 +247,7 @@
             <description><![CDATA[This so-called ‘faecal revolution’ could have been key for the emergence of life on Earth]]></description>
             <link>https://www.sciencefocus.com/news/poop-explosion-cambrian-evolution</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/poop-explosion-cambrian-evolution</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/9acd5159-033d-4c0f-b8d7-92825e76ee31/thumbnails/bd8e2d89-58af-4a40-a466-f398d4075eaa.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/9acd5159-033d-4c0f-b8d7-92825e76ee31/thumbnails/bd8e2d89-58af-4a40-a466-f398d4075eaa.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -256,7 +256,7 @@
             <description><![CDATA[From soothing warblers to screeching owls, scientists have worked out exactly which birdsongs calm us down – and which ones grate]]></description>
             <link>https://www.sciencefocus.com/news/these-birdsongs-could-improve-your-mood</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/these-birdsongs-could-improve-your-mood</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/f87bcf2c-fc08-4ffe-9227-cfe65be0c32c/thumbnails/b0f465eb-03dd-4a90-8d40-14d573100dfa.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/f87bcf2c-fc08-4ffe-9227-cfe65be0c32c/thumbnails/b0f465eb-03dd-4a90-8d40-14d573100dfa.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -265,7 +265,7 @@
             <description><![CDATA[A mouse study has found that 'obesity memory' in immune cells may be holding back fat loss]]></description>
             <link>https://www.sciencefocus.com/news/we-may-finally-know-why-its-so-hard-to-lose-weight</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/we-may-finally-know-why-its-so-hard-to-lose-weight</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/6f3e2018-99b0-40ef-a7f4-af056c5b75c1/thumbnails/eea9a85e-1e70-44a9-9023-b6c9a5f294a3.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/6f3e2018-99b0-40ef-a7f4-af056c5b75c1/thumbnails/eea9a85e-1e70-44a9-9023-b6c9a5f294a3.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -274,7 +274,7 @@
             <description><![CDATA[Cholesterol-lowering drugs are more effective the earlier they are started, a ten-year study has found]]></description>
             <link>https://www.sciencefocus.com/news/statins-could-help-lower-dementia-risk-for-type-2-diabetics</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/statins-could-help-lower-dementia-risk-for-type-2-diabetics</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c5340bc0-15e0-427d-bba0-81b71d46bc4b/thumbnails/69f0b866-43b4-43b2-994a-511727cb6007.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c5340bc0-15e0-427d-bba0-81b71d46bc4b/thumbnails/69f0b866-43b4-43b2-994a-511727cb6007.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -283,7 +283,7 @@
             <description><![CDATA[Athlete-bots compete at the second World Humanoid Robot Games]]></description>
             <link>https://www.sciencefocus.com/news/robots-just-held-their-own-very-chaotic-athletic-games-and-the-footage-is-jaw-dropping</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/robots-just-held-their-own-very-chaotic-athletic-games-and-the-footage-is-jaw-dropping</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/d9127766-028c-4b0a-a770-9efe7afb48ea/thumbnails/48b62486-5190-40f2-b21a-b234a93598f2.png?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/d9127766-028c-4b0a-a770-9efe7afb48ea/thumbnails/48b62486-5190-40f2-b21a-b234a93598f2.png?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -292,7 +292,7 @@
             <description><![CDATA[Making healthy choices in middle age could increase your cognitive health much later in life]]></description>
             <link>https://www.sciencefocus.com/news/13-years-dementia</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/13-years-dementia</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/33c8ed92-3769-47aa-a754-be8537bbb0df/thumbnails/6b303798-a72f-484e-af86-be4456aa5d85.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/33c8ed92-3769-47aa-a754-be8537bbb0df/thumbnails/6b303798-a72f-484e-af86-be4456aa5d85.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -301,7 +301,7 @@
             <description><![CDATA[Millions of people may have once inhabited the rainforest, according to experts]]></description>
             <link>https://www.sciencefocus.com/news/amazon-civilisation-lidar</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/amazon-civilisation-lidar</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/572f9cb3-f9c6-47ba-aaf9-b31e226116a2/thumbnails/da4bccaa-92ec-46bb-b715-868259207a52.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/572f9cb3-f9c6-47ba-aaf9-b31e226116a2/thumbnails/da4bccaa-92ec-46bb-b715-868259207a52.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -310,7 +310,7 @@
             <description><![CDATA[A recent trial of an experimental gene therapy significantly lowered participants’ ‘bad’ cholesterol after just one injection]]></description>
             <link>https://www.sciencefocus.com/news/landmark-cholesterol-treatment-single-dose</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/landmark-cholesterol-treatment-single-dose</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/71bfa207-b1c4-46fd-8780-b795bb8cf7c9/thumbnails/df6ab3c4-e9e1-4b3e-8139-56ac86fc3b75.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/71bfa207-b1c4-46fd-8780-b795bb8cf7c9/thumbnails/df6ab3c4-e9e1-4b3e-8139-56ac86fc3b75.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -319,7 +319,7 @@
             <description><![CDATA[It turns out that more sex doesn’t equal more love]]></description>
             <link>https://www.sciencefocus.com/news/sex-life-reveals-relationship-love</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/sex-life-reveals-relationship-love</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/4e30ad89-6a12-421e-82d0-fd7cf748d211/thumbnails/a3933fe0-c9b0-4ea2-be1b-96575a9574bc.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/4e30ad89-6a12-421e-82d0-fd7cf748d211/thumbnails/a3933fe0-c9b0-4ea2-be1b-96575a9574bc.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -328,7 +328,7 @@
             <description><![CDATA[When it comes to health, sustainability and value for money, there is one clear winner]]></description>
             <link>https://www.sciencefocus.com/news/best-source-protein-tofu</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/news/best-source-protein-tofu</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/99d5dc0e-8308-48be-bfca-e02e3edac431/thumbnails/0531b33c-bb88-40e0-a7a5-566fa1660569.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/99d5dc0e-8308-48be-bfca-e02e3edac431/thumbnails/0531b33c-bb88-40e0-a7a5-566fa1660569.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -337,16 +337,25 @@
             <description><![CDATA[The Sun turned off the light across Europe]]></description>
             <link>https://www.sciencefocus.com/space/solar-eclipse-2026-gallery</link>
             <guid isPermaLink="true">https://www.sciencefocus.com/space/solar-eclipse-2026-gallery</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:26 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:02 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/7feb2ccc-3870-4adf-ad04-f426b2fcc48a/thumbnails/b7a2ce78-397a-41e9-9b6c-d941016cc1a3.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/7feb2ccc-3870-4adf-ad04-f426b2fcc48a/thumbnails/b7a2ce78-397a-41e9-9b6c-d941016cc1a3.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
+        </item>
+        <item>
+            <title><![CDATA[Dinosaur eggshells unearthed Patagonia belong to unexpected giant species, say experts]]></title>
+            <description><![CDATA[The eggshells are the first piece of evidence to suggest that titanosaurs were nesting at high altitudes]]></description>
+            <link>https://www.discoverwildlife.com/dinosaurs/titanosaur-eggshells-patagonia</link>
+            <guid isPermaLink="true">https://www.discoverwildlife.com/dinosaurs/titanosaur-eggshells-patagonia</guid>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
+            <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/4db7bed4-1e1d-447c-b781-baec93923980/thumbnails/4d0c3197-f559-453d-a3e4-d05d9492fb33.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
+            <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/4db7bed4-1e1d-447c-b781-baec93923980/thumbnails/4d0c3197-f559-453d-a3e4-d05d9492fb33.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
         <item>
             <title><![CDATA[Experts played fish noises to a degraded reef in Hawaiʻi. What happened next was astounding]]></title>
             <description><![CDATA[Coral regeneration could be boosted by playing noises from healthy reef systems, say marine biologists]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/acoustic-enrichment-coral-reef-hawaii</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/acoustic-enrichment-coral-reef-hawaii</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/475587fa-4911-4f45-9976-85a9a4675e82/thumbnails/3cd628a2-d2c1-4559-9b34-2901bd03f596.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/475587fa-4911-4f45-9976-85a9a4675e82/thumbnails/3cd628a2-d2c1-4559-9b34-2901bd03f596.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -355,7 +364,7 @@
             <description><![CDATA[New research reveals the intricacies of African savannah elephant rumble choruses.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/mammals/african-elephant-choruses</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/mammals/african-elephant-choruses</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/a6347984-8ea9-441e-b386-3a9ecaf37d5f/thumbnails/2fc3f7fe-bfff-4249-852b-0e4b8d3251e7.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/a6347984-8ea9-441e-b386-3a9ecaf37d5f/thumbnails/2fc3f7fe-bfff-4249-852b-0e4b8d3251e7.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -364,7 +373,7 @@
             <description><![CDATA[Aurochs were the ancient ancestors of modern cattle but were much bigger and wilder.]]></description>
             <link>https://www.discoverwildlife.com/prehistoric-life/aurochs-scandinavia</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/prehistoric-life/aurochs-scandinavia</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/3ced3729-ae66-4343-a85f-08c560e8a30b/thumbnails/857ca353-dcf6-42dc-9fd9-ae3447901a47.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/3ced3729-ae66-4343-a85f-08c560e8a30b/thumbnails/857ca353-dcf6-42dc-9fd9-ae3447901a47.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -373,7 +382,7 @@
             <description><![CDATA[An expert from Kew Gardens saw an unfamiliar plant in photos on social media – and believed it could be a new species]]></description>
             <link>https://www.discoverwildlife.com/plant-facts/water-plants/victoria-colombiana-waterlily-discovery</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/plant-facts/water-plants/victoria-colombiana-waterlily-discovery</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/7d1eeb19-3622-40d6-9179-e6f53f308f8b/thumbnails/afab324d-2484-40fd-a251-a4bf8477493c.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/7d1eeb19-3622-40d6-9179-e6f53f308f8b/thumbnails/afab324d-2484-40fd-a251-a4bf8477493c.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -382,7 +391,7 @@
             <description><![CDATA[Omura’s whales are filter feeders that snack on enormous mouthfuls of tiny krill.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/d5323064-a028-4c5c-807d-caf96a22d0b0/thumbnails/d23d8b7c-8c85-4b40-b4c2-5539cefcecf6.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/d5323064-a028-4c5c-807d-caf96a22d0b0/thumbnails/d23d8b7c-8c85-4b40-b4c2-5539cefcecf6.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -391,7 +400,7 @@
             <description><![CDATA[The unusually pattern marine creature was seen in Raja Ampat, Indonesia.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/white-manta-ray-raja-ampat</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/white-manta-ray-raja-ampat</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/e518a24c-2b4d-4a42-9527-efa72aa74246/thumbnails/0f15d2bc-3689-4e0f-8d9c-af2e19702537.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/e518a24c-2b4d-4a42-9527-efa72aa74246/thumbnails/0f15d2bc-3689-4e0f-8d9c-af2e19702537.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -400,7 +409,7 @@
             <description><![CDATA[Oyster reefs could add around $12 trillion to global economies if they were better managed and protected, new study finds.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/oyster-reef-gross-ecosystem-product</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/oyster-reef-gross-ecosystem-product</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/99dd254d-ae65-4b78-8f6c-9b9d91f9f12e/thumbnails/2793d278-77d1-46a8-b462-5a48f7fc6b6b.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/99dd254d-ae65-4b78-8f6c-9b9d91f9f12e/thumbnails/2793d278-77d1-46a8-b462-5a48f7fc6b6b.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -409,7 +418,7 @@
             <description><![CDATA[The take-home message from the World Wildlife Fund’s 2026 Living Planet Report is one of hope, with tiger, sea otter and African elephant populations all stable or growing.]]></description>
             <link>https://www.discoverwildlife.com/environment/living-planet-report-2026</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/environment/living-planet-report-2026</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/95926710-a8bc-416b-87c1-2698bbaa455b/thumbnails/e964b651-b986-4b48-ab63-99cf6c4ecfeb.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/95926710-a8bc-416b-87c1-2698bbaa455b/thumbnails/e964b651-b986-4b48-ab63-99cf6c4ecfeb.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -418,7 +427,7 @@
             <description><![CDATA[Jonathan the Aldabra giant tortoise is around 194 years old – making him a contemporary of Charles Darwin]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/reptiles/jonathan-giant-tortoise-dna-analysis</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/reptiles/jonathan-giant-tortoise-dna-analysis</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/3168ddaf-dac1-4ec2-ba18-32294ccbde93/thumbnails/99a0fe74-95c4-40e7-a90e-7c17eb1f5c13.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/3168ddaf-dac1-4ec2-ba18-32294ccbde93/thumbnails/99a0fe74-95c4-40e7-a90e-7c17eb1f5c13.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -427,7 +436,7 @@
             <description><![CDATA[Scientists have found a link between colour-changing snow algae, penguin poop, and accelerated snow melting.]]></description>
             <link>https://www.discoverwildlife.com/environment/penguin-poop-melting-snow</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/environment/penguin-poop-melting-snow</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/ee198156-48da-4d81-b231-a0df4f38cb53/thumbnails/6e224f83-673b-484a-84ae-1a00852d2991.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/ee198156-48da-4d81-b231-a0df4f38cb53/thumbnails/6e224f83-673b-484a-84ae-1a00852d2991.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -436,7 +445,7 @@
             <description><![CDATA[Startling sharks with sound sheds light on their sensitive hearing – but how they hear over long distances is still a mystery.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/blacktip-shark-hearing-florida</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/blacktip-shark-hearing-florida</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/c00bf2e4-b7da-464b-9648-41a4d6877fc4/thumbnails/32c813e5-77df-4a35-825a-df5b6f7f21f0.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/c00bf2e4-b7da-464b-9648-41a4d6877fc4/thumbnails/32c813e5-77df-4a35-825a-df5b6f7f21f0.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -445,7 +454,7 @@
             <description><![CDATA[Understanding infant corpse carrying behaviour in primates could provide clues to how humans perceive death]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/mammals/chimpanzee-infant-corpse-carrying</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/mammals/chimpanzee-infant-corpse-carrying</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/d599a5ee-9b93-4120-81e0-dddc76c334bd/thumbnails/10af63b0-5ed4-4762-a786-12ab9dfde9b6.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/d599a5ee-9b93-4120-81e0-dddc76c334bd/thumbnails/10af63b0-5ed4-4762-a786-12ab9dfde9b6.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -454,7 +463,7 @@
             <description><![CDATA[A diver in Moalboal, Philippines, saw something very odd – and it had the internet worried for a moment.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/turtle-sleeping-sponge</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/turtle-sleeping-sponge</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/386428bf-df89-4be3-afd5-751bd91755dc/thumbnails/46838c40-d751-44c8-a0e5-ff72888bfeef.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/386428bf-df89-4be3-afd5-751bd91755dc/thumbnails/46838c40-d751-44c8-a0e5-ff72888bfeef.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -463,7 +472,7 @@
             <description><![CDATA[Insects provide a whole range of benefits for other animals, including food, shelter, protection and even medicines.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/insects-invertebrates/insects-support-vertebrates</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/insects-invertebrates/insects-support-vertebrates</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/11779e4c-2611-451d-b93a-a1f2d92c478b/thumbnails/6fef490b-d28c-4516-8d65-3219e1b8463d.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/11779e4c-2611-451d-b93a-a1f2d92c478b/thumbnails/6fef490b-d28c-4516-8d65-3219e1b8463d.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -472,7 +481,7 @@
             <description><![CDATA[Scientists have uncovered a new species of extinct crocodile in Egypt, after reanalysing fossils in rock used to build the ancient wonder]]></description>
             <link>https://www.discoverwildlife.com/prehistoric-life/herugavialis-cairensis-crocodile-egypt</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/prehistoric-life/herugavialis-cairensis-crocodile-egypt</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/2617ac68-bec8-49f3-b06d-36788221a948/thumbnails/d13e3a2c-5551-4f4f-9639-e7db2e542ff3.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/2617ac68-bec8-49f3-b06d-36788221a948/thumbnails/d13e3a2c-5551-4f4f-9639-e7db2e542ff3.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -481,7 +490,7 @@
             <description><![CDATA[In 2016, conservationists started planted thousands of native seedlings in Yosemite’s Tuolumne Meadows. Ten years later, many of them are still alive and they're improving the health of the soil – slowly.]]></description>
             <link>https://www.discoverwildlife.com/environment/tuolumne-meadows-resoration</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/environment/tuolumne-meadows-resoration</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/55f48581-9e44-41ca-96f9-efc543c5d573/thumbnails/d2c4d3ed-67dd-4e03-97de-842cf1c9dd8b.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/55f48581-9e44-41ca-96f9-efc543c5d573/thumbnails/d2c4d3ed-67dd-4e03-97de-842cf1c9dd8b.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -490,7 +499,7 @@
             <description><![CDATA[The shortlist for the 2026 Nikon Comedy Wildlife Awards has been announced – take a look at some of the hilarious and heartwarming images]]></description>
             <link>https://www.discoverwildlife.com/photography/nikon-comedy-wildlife-photography-awards-finalists-2026</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/photography/nikon-comedy-wildlife-photography-awards-finalists-2026</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/1f7d7e7e-3f82-4a34-825e-2fc35c456c9a/thumbnails/ce2323c0-a2c0-44f1-a1dc-c89c92a7089b.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/1f7d7e7e-3f82-4a34-825e-2fc35c456c9a/thumbnails/ce2323c0-a2c0-44f1-a1dc-c89c92a7089b.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -499,7 +508,7 @@
             <description><![CDATA[A fungus that infects and kills amphibians has been found to thrive inside the burrows of one of Yosemite's most threatened animals.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/amphibians/yosemite-toads-bd-fungus</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/amphibians/yosemite-toads-bd-fungus</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/43aabcc4-7c0b-4677-a6da-1473e1b19ac7/thumbnails/0870c51c-808d-44c5-a6f2-96aa6147b595.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/43aabcc4-7c0b-4677-a6da-1473e1b19ac7/thumbnails/0870c51c-808d-44c5-a6f2-96aa6147b595.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -508,7 +517,7 @@
             <description><![CDATA[Oman saw-scaled vipers are exploiting fishy food sources from the Arabian Peninsula's drying desert pools, according to a new study.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/reptiles/fish-eating-oman-saw-scaled-viper</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/reptiles/fish-eating-oman-saw-scaled-viper</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/08c1f00d-6035-44c3-a054-25826a1196ea/thumbnails/f6e10783-7c3d-4f25-96e9-0aa9f5f51e1d.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/08c1f00d-6035-44c3-a054-25826a1196ea/thumbnails/f6e10783-7c3d-4f25-96e9-0aa9f5f51e1d.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -517,7 +526,7 @@
             <description><![CDATA[Ocean sunfish, or mola mola, have no tail fin. Instead, they steer with a thick rudder-like fringe called a clavus, which gives them their unusual appearance.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/ocean-sunfish-bali</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/ocean-sunfish-bali</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/bfb5363a-7e80-4ffe-be87-ed2b9d8dfb97/thumbnails/1ca51390-2861-409d-88ae-366b313151cd.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/bfb5363a-7e80-4ffe-be87-ed2b9d8dfb97/thumbnails/1ca51390-2861-409d-88ae-366b313151cd.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -526,7 +535,7 @@
             <description><![CDATA[Marine mammal experts responded to the unusual sighting and tried to encourage the pod back to the safety of deeper seas.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/pilot-whales-thames</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/pilot-whales-thames</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/7cc6d753-3376-46e1-8632-f35246b77ac3/thumbnails/afbf4ded-54e5-4d7a-b6f9-e397afe30951.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/7cc6d753-3376-46e1-8632-f35246b77ac3/thumbnails/afbf4ded-54e5-4d7a-b6f9-e397afe30951.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -535,7 +544,7 @@
             <description><![CDATA[An analysis of ant genomes has revealed how ants achieved species richness.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/insects-invertebrates/jumping-genes-ants</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/insects-invertebrates/jumping-genes-ants</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/d181574e-f59f-48f4-a1b8-32eac392abf4/thumbnails/1a279f83-3994-4b7f-950c-14a7a5a8bf20.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/d181574e-f59f-48f4-a1b8-32eac392abf4/thumbnails/1a279f83-3994-4b7f-950c-14a7a5a8bf20.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
@@ -544,18 +553,9 @@
             <description><![CDATA[This deep-sea expedition explored one of the most biologically dynamic regions in the South Atlantic.]]></description>
             <link>https://www.discoverwildlife.com/animal-facts/marine-animals/deep-sea-species-discovery-workshop-argentina</link>
             <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/deep-sea-species-discovery-workshop-argentina</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 00:25:08 GMT</pubDate>
             <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/b02e8801-7690-4907-929f-3ed1165f140c/thumbnails/4b29dc4f-867f-4b05-bff9-540c15af733e.png?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
             <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/b02e8801-7690-4907-929f-3ed1165f140c/thumbnails/4b29dc4f-867f-4b05-bff9-540c15af733e.png?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
-        </item>
-        <item>
-            <title><![CDATA[Scientists find triplet embryos inside wild sea turtle egg for first time ever]]></title>
-            <description><![CDATA[The egg was found in a green turtle nest on the Guanahacabibes Peninsula in Cuba.]]></description>
-            <link>https://www.discoverwildlife.com/animal-facts/marine-animals/sea-turtle-triplet-embryos</link>
-            <guid isPermaLink="true">https://www.discoverwildlife.com/animal-facts/marine-animals/sea-turtle-triplet-embryos</guid>
-            <pubDate>Fri, 09 Oct 2026 20:26:33 GMT</pubDate>
-            <enclosure url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/fd8ac4eb-d707-4f60-9c04-12f71753fe6d/thumbnails/184df829-9fa2-4a7e-a1a5-2405920cfe1d.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" length="0" type="image/jpeg"/>
-            <media:content url="https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/fd8ac4eb-d707-4f60-9c04-12f71753fe6d/thumbnails/184df829-9fa2-4a7e-a1a5-2405920cfe1d.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&amp;platform=WEB&amp;w=1200&amp;webp=1" medium="image"/>
         </item>
     </channel>
 </rss>
